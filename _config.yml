@@ -1,0 +1,7 @@
+logo: /assets/css/headshot.png
+title: Veene Michael Eco
+description: Business Intelligence Developer | Power BI Developer
+show_downloads: true
+theme: jekyll-theme-minimal
+include:
+  - assets/css/styles.css
