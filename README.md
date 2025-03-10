@@ -23,7 +23,7 @@ This solution empowers users to not just view reports in Power BI but also inter
 
 
 ### Valentine's Day Card for Power Apps 
-This was inspired by a content from [mewtru](https://www.tiktok.com/@mewtru/video/7331257083033079086?lang=en). However, this was recreated in Power Apps. The code base is still available in Lexmark's Power Apps environment but I recorded a demo before I left. [Click to view!!!](https://github.com/frustrated-ai/frustrated-ai/blob/73a66a9b5976380913fb9cf625d03f92267379fb/assets/Valentines%20Day%20Card%20-%20Power%20Apps%20Demo.mp4)
+This was inspired by a content from [mewtru](https://www.tiktok.com/@mewtru/video/7331257083033079086?lang=en). However, this was recreated in Power Apps. The code base is still available in Lexmark's Power Apps environment but I recorded a demo before I left. ![Click to view!!!](https://github.com/frustrated-ai/frustrated-ai/blob/92d5186a614669c9a66f17a988a02f6e8883a3b5/assets/Valentines%20Day%20Card%20-%20Power%20Apps%20Demo.mp4)
 
 ### Usage Metrics Data for Power BI using Tabular Editor
 Click this [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7298709092397719552/) for details
