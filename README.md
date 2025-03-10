@@ -20,6 +20,7 @@ This solution empowers users to not just view reports in Power BI but also inter
 ## Side (and fun) Projects
 ### Financial Reports Sample
 - [Income Statement Report](https://github.com/frustrated-ai/powerbi/blob/1c940d597a1d60c3f62b056c20ef3dcb01904aa7/Income%20Statement%20Report.pbix)
+  ![PBI Income Statement](https://github.com/frustrated-ai/powerbi/blob/1c940d597a1d60c3f62b056c20ef3dcb01904aa7/Income%20Statement%20Report.png)
 
 ### Valentine's Day Card for Power Apps 
 This was inspired by a content from [mewtru](https://www.tiktok.com/@mewtru/video/7331257083033079086?lang=en). However, this was recreated in Power Apps. The code base is still available in Lexmark's Power Apps environment but I recorded a demo before I left. [Click to view!!!](https://github.com/frustrated-ai/frustrated-ai/blob/73a66a9b5976380913fb9cf625d03f92267379fb/assets/Valentines%20Day%20Card%20-%20Power%20Apps%20Demo.mp4)
